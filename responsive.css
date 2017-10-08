@@ -1,0 +1,102 @@
+
+@media (min-width: 1000px) and (max-width: 1600px) {
+	.loremIpsum {
+		width: 15%;
+	}
+	.logoimg {
+		width: 15%;
+	}
+	.a {
+		width: 9%;
+	}
+}
+@media (min-width: 750px) and (max-width: 999px) {
+	.loremIpsum {
+		width: 40%;
+		margin-bottom: 5px;
+	}
+	.logoimg {
+		width: 14%;
+		margin-left: 0px;
+		margin-top: 4%;
+	}
+	.a {
+		width: 23%;
+		height: 15%;
+		margin-bottom: 5px;
+		text-align: center;
+	}
+	.b {
+		float:none;
+		text-align: center;
+	}
+}
+@media (min-width: 570px) and (max-width: 749px) {
+	.loremIpsum {
+		width: 85%;
+	}
+	.a {
+		width: 45%;
+		margin-bottom: 5px;
+		text-align: center;
+	}
+	.b {
+		float:none;
+		text-align: center;
+		margin-left: -40px;
+	}
+	.menu-text {
+		margin: 100px 5% 125px 25px;
+	}
+	.logoimg {
+		margin-top: 80px;
+		margin-left: 0;
+		width: 25%;
+	}
+	.content2 {
+		padding-top: 280px;;
+	}
+}
+@media (max-width: 569px) {
+	.loremIpsum {
+		width: 85%;
+	}
+	.a {
+		width: 98%;
+		min-width: 98%;
+		margin-bottom: 5px;
+		text-align: center;
+	}
+	.menu-buttons {
+		width: 90%;
+		height: 200px;
+		padding: 0 0;
+		margin-right: 10px;
+	}
+	.b {
+		float:none;
+		text-align: center;
+		margin-left: -40px;
+
+	}
+	.menu-text {
+		margin: 0 45%;
+		margin-bottom: 10px;
+		float: left;
+	}
+	.logoimg {
+
+		margin-left: 36%;
+	}
+	.title-text {
+		width: 100%;
+		margin-left: 0;
+	}
+	.content2 {
+		padding-top: 410px;;
+	}
+    .round {
+    	    margin-left: 20%;
+    } 
+
+}
